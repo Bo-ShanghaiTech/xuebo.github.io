@@ -26,7 +26,7 @@ Outstanding Student Scholarship of ShanghaiTech University in 2019
 
 #### Journals
 
-- [[J3]](https://ieeexplore.ieee.org/document/9492828) [[J4]](https://ieeexplore.ieee.org/document/9492828)L. Wang, H. Wang, **B. Xue**, and M. Zhou, "H5-bridge based single-input-dual-output LLC converter with wide output voltage range," *IEEE Trans. Ind. Electron*., in press.
+- [[J3]](https://ieeexplore.ieee.org/document/9492828) L. Wang, H. Wang, **B. Xue**, and M. Zhou, "H5-bridge based single-input-dual-output LLC converter with wide output voltage range," *IEEE Trans. Ind. Electron*., in press.
 
 - [[J2]](https://ieeexplore.ieee.org/document/9112715) **B. Xue**, H. Wang, J. Liang, Q. Cao, and Z. Li, "Phase-shift modulated interleaved LLC converter with ultrawide output voltage range," *IEEE Trans. Power Electron*., vol. 36, no. 1, pp. 493-503, Jan. 2021.
 
